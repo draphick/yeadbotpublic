@@ -1,0 +1,50 @@
+[
+    {
+        "comments" : {
+            "smelliot" : "katson, smelliot katson, to what dine dost thee take?"
+        },
+        "discordID" : "145726376274558977",
+        "inventory" : {
+            "cell phone" : 1,
+            "extra clothes" : 1,
+            "laptop" : 1,
+            "notebook and pen" : 1,
+            "pocket knife" : 1,
+            "small toolkit" : 1
+        },
+        "level" : 1,
+        "playerName" : "Smelly Kat",
+        "stats" : {
+            "dpl" : 0,
+            "knw" : 2,
+            "mvm" : 2,
+            "prc" : 0,
+            "str" : 2
+        },
+        "xpcurrent" : 0,
+        "xpmax" : 1000
+    },
+    {
+        "comments" : {},
+        "discordID" : "340282221703462912",
+        "inventory" : {
+            "cell phone" : 1,
+            "extra clothes" : 1,
+            "laptop" : 1,
+            "notebook & pen" : 1,
+            "pocket knife" : 1,
+            "small toolkit" : 1
+        },
+        "level" : 1,
+        "playerName" : "Phoebe",
+        "stats" : {
+            "dpl" : 2,
+            "knw" : 0,
+            "mvm" : 2,
+            "prc" : 3,
+            "str" : 0
+        },
+        "xpcurrent" : 0,
+        "xpmax" : 1000
+    }
+]
